@@ -7,3 +7,8 @@ random description
 прежде чем устанавливать его необходимо убедиться что гит установлен
 написать git version в терминале
         git init
+     
+Удаленный репозиторий подключается через команду
+        
+        git remote add origin https://github.com/zhene4ka-tech/lesson1.git
+
