@@ -12,4 +12,8 @@ random description
         
         git remote add origin https://github.com/zhene4ka-tech/lesson1.git
 
-test test
+
+Для того чтобы склонировать себе удаленный реп необходимо выполнить команду
+        
+        git clone https://github.com/zhene4ka-tech/lesson1.git
+        
